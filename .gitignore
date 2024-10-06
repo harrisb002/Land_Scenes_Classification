@@ -1,0 +1,31 @@
+# macOS system files
+.DS_Store
+
+# Python stuff
+dist/
+build/
+*.log
+*.out
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Virtual environments
+env/
+
+# ML model files
+*.h5
+*.ckpt
+*.pth
+*.weights
+*.model
+*.joblib
+
+# Dataset and results
+data/
+results/
+output/
+
+# VSCode and IDE settings
+.vscode/
+.idea/
